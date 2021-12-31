@@ -7,7 +7,7 @@ import {
   Header,
   Image,
 } from 'react-native';
-
+import db from '../config'
 import AppHeader from '../components/AppHeader';
 
 export default class HomeScreen extends Component {
